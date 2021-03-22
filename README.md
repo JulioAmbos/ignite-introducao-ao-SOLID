@@ -21,7 +21,7 @@ Nesse desafio, você deverá criar uma aplicação para treinar o que 
 - Navegue até o diretório principal do projeto
 
 ```
-> cd ignite-trabalhando-com-middlewares
+> cd ignite-introducao-ao-SOLID
 ```
 
 - Instale as dependências com o Yarn
