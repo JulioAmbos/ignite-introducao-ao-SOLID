@@ -4,6 +4,7 @@
   Desafio 01 e 02- Introdução ao SOLID e Documentando com Swagger
 </h3>
 <img src="public/challenge.jpg" alt="challenge" />
+<img src="public/challenge.jpg" alt="challenge1" />
 
 ## :rocket: Sobre o desafio
 
