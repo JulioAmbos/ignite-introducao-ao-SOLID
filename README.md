@@ -1,7 +1,7 @@
 # 🔥 Ignite - Trilha NodeJS
 
 <h3 align="center">
-  Desafio 01 - Introdução ao SOLID
+  Desafio 01 e 02- Introdução ao SOLID e Documentando com Swagger
 </h3>
 <img src="public/challenge.jpg" alt="challenge" />
 
@@ -43,7 +43,12 @@ yarn dev
 
 ## :eyeglasses: Instruções sobre o que deve ser feito
 
-Existe uma documentação no Notion sobre as rotas e testes, clique **[aqui](https://www.notion.so/Desafio-01-Introdu-o-ao-SOLID-3b9be286fac0482ca3b275473ddd2d72#b309640a3f3b410e9a80c467af90e4b5)** para acessar!
+Existe uma documentação no Notion sobre as rotas e testes,
+clique Desafio 01 **[aqui](https://www.notion.so/Desafio-01-Introdu-o-ao-SOLID-3b9be286fac0482ca3b275473ddd2d72#b309640a3f3b410e9a80c467af90e4b5)** 
+
+clique Desafio 02 **[aqui](https://www.notion.so/Desafio-02-Documentando-com-Swagger-8ce869ea608743e292851bd951f3239f)** para acessar!
+
+
 
 ## :memo: Licença
 
